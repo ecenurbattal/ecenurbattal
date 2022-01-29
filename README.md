@@ -18,22 +18,22 @@
 [<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/css3.svg" alt="Css3" height="30" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/react.svg" alt="ReactJS" height="30" />](https://reactjs.org)
 [<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/nextdotjs.svg" alt="NextJS" height="30" />](https://nextjs.org)
-<a href="https://redux.js.org" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/redux.svg" alt="Redux" height="30" /></a>
-<a href="https://jestjs.io" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/jest.svg" alt="Jest" height="30" /></a>
-<a href="https://styled-components.com" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/styled-components.png" alt="Styled Components" height="30" /></a>
-<a href="https://sass-lang.com/guide" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/sass.svg" alt="Sass" height="30" /></a>
-<a href="https://nodejs.org" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/nodejs.svg" alt="NodeJS" height="30" /></a>
-<a href="https://www.mongodb.com" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/mongodb.svg" alt="MongoDB" height="30" /></a>
-<a href="https://code.visualstudio.com" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/visual-studio-code.svg" alt="Visual Studio Code" height="30" /></a>
+[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/redux.svg" alt="Redux" height="30" />](https://redux.js.org)
+[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/jest.svg" alt="Jest" height="30" />](https://jestjs.io)
+[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/styled-components.png" alt="Styled Components" height="30" />](https://styled-components.com)
+[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/sass.svg" alt="Sass" height="30" />](https://sass-lang.com/guide)
+[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/nodejs.svg" alt="NodeJS" height="30" />](https://nodejs.org)
+[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/mongodb.svg" alt="MongoDB" height="30" />](https://www.mongodb.com)
+[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/visual-studio-code.svg" alt="Visual Studio Code" height="30" />](https://code.visualstudio.com)
 
 
 <br />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ecenurbattal&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Ece Nur Battal" width="700">
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ecenurbattal&theme=jolly" width="700">
 </a>
 
