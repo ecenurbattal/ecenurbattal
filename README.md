@@ -34,10 +34,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ecenurbattal&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Ece Nur Battal" width="700">
 </a></div>
 
+<br />
+
 <div align="center">
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ecenurbattal&theme=jolly" width="700">
 </a></div>
+
+<br />
 
 <div align="center">
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
@@ -45,7 +49,7 @@
 </a>
 </div>
 
+<br />
+
 ![ecenurbattal snake gif](https://github.com/ecenurbattal/ecenurbattal/blob/output/github-contribution-grid-snake.svg)
 
-<br />
-<br />
