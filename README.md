@@ -13,10 +13,9 @@
 
 ### Languages and Tools:
 
-<p align="left">
-<a style="margin-right:10px;" href="https://www.javascript.com" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/javascript.svg" alt="Javascript" height="30" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/html5.svg" alt="Html5" height="30" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/css3.svg" alt="Css3" height="30" /></a>
+[<a href="https://www.javascript.com" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/javascript.svg" alt="Javascript" height="30" /></a>]
+[<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/html5.svg" alt="Html5" height="30" /></a>]
+[<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/css3.svg" alt="Css3" height="30" /></a>]
 <a href="https://reactjs.org" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/react.svg" alt="ReactJS" height="30" /></a>
 <a href="https://nextjs.org" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/nextdotjs.svg" alt="NextJS" height="30" /></a>
 <a href="https://redux.js.org" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/redux.svg" alt="Redux" height="30" /></a>
@@ -26,7 +25,7 @@
 <a href="https://nodejs.org" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/nodejs.svg" alt="NodeJS" height="30" /></a>
 <a href="https://www.mongodb.com" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/mongodb.svg" alt="MongoDB" height="30" /></a>
 <a href="https://code.visualstudio.com" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/visual-studio-code.svg" alt="Visual Studio Code" height="30" /></a>
-</p>
+
 
 <br />
 
