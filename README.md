@@ -29,13 +29,15 @@
 
 <br />
 
-  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ecenurbattal&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Ece Nur Battal" width="700">
-</a>
+</a></div>
 
+<div align="center">
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ecenurbattal&theme=jolly" width="700">
-</a>
+</a></div>
 
 <div align="center">
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
