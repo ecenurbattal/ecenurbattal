@@ -1,4 +1,4 @@
-### Hi there, I'm Ece 👋 
+### Hi there, I'm Ece 👋
 
 ## I'm a Web Developer!
 
@@ -11,12 +11,10 @@
 <a href="https://www.linkedin.com/in/ece-nur-battal-9976481b4/" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/social/linkedin.svg" alt="ecenurbattal" height="30" /></a>
 </p>
 
-<br />
-
 ### Languages and Tools:
 
 <p align="left">
-<a style="margin:0 5px;" href="https://www.javascript.com" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/javascript.svg" alt="Javascript" height="30" /></a>
+<a style="margin-right:10px;" href="https://www.javascript.com" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/javascript.svg" alt="Javascript" height="30" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/html5.svg" alt="Html5" height="30" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/css3.svg" alt="Css3" height="30" /></a>
 <a href="https://reactjs.org" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/react.svg" alt="ReactJS" height="30" /></a>
@@ -32,8 +30,7 @@
 
 <br />
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ecenurbattal&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Ece Nur Battal" width="700">
 </a>
 
@@ -41,9 +38,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ecenurbattal&theme=jolly" width="700">
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center">
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecenurbattal&layout=compact&theme=radical" />
 </a>
+</div>
 
 ![ecenurbattal snake gif](https://github.com/ecenurbattal/ecenurbattal/blob/output/github-contribution-grid-snake.svg)
 
