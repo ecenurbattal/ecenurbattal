@@ -16,8 +16,8 @@
 [<img align="left" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/javascript.svg" alt="Javascript" height="30" />](https://www.javascript.com)
 [<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/html5.svg" alt="Html5" height="30" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/css3.svg" alt="Css3" height="30" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-<a href="https://reactjs.org" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/react.svg" alt="ReactJS" height="30" /></a>
-<a href="https://nextjs.org" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/nextdotjs.svg" alt="NextJS" height="30" /></a>
+[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/react.svg" alt="ReactJS" height="30" />](https://reactjs.org)
+[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/nextdotjs.svg" alt="NextJS" height="30" />](https://nextjs.org)
 <a href="https://redux.js.org" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/redux.svg" alt="Redux" height="30" /></a>
 <a href="https://jestjs.io" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/jest.svg" alt="Jest" height="30" /></a>
 <a href="https://styled-components.com" target="blank"><img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/styled-components.png" alt="Styled Components" height="30" /></a>
