@@ -1,4 +1,4 @@
-### Hi there, I'm Ece 👋
+## Hi there, I'm Ece 👋
 
 ## I'm a Web Developer!
 
