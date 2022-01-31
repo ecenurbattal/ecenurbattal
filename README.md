@@ -14,17 +14,17 @@
 ### Languages and Tools:
 
 [<img align="left" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/javascript.svg" alt="Javascript" height="30" />](https://www.javascript.com)
-[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/html5.svg" alt="Html5" height="30" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/css3.svg" alt="Css3" height="30" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/react.svg" alt="ReactJS" height="30" />](https://reactjs.org)
-[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/nextdotjs.svg" alt="NextJS" height="30" />](https://nextjs.org)
-[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/redux.svg" alt="Redux" height="30" />](https://redux.js.org)
-[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/jest.svg" alt="Jest" height="30" />](https://jestjs.io)
-[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/styled-components.png" alt="Styled Components" height="30" />](https://styled-components.com)
-[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/sass.svg" alt="Sass" height="30" />](https://sass-lang.com/guide)
-[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/nodejs.svg" alt="NodeJS" height="30" />](https://nodejs.org)
-[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/mongodb.svg" alt="MongoDB" height="30" />](https://www.mongodb.com)
-[<img align="center" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/visual-studio-code.svg" alt="Visual Studio Code" height="30" />](https://code.visualstudio.com)
+[<img align="left" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/html5.svg" alt="Html5" height="30" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[<img align="left" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/css3.svg" alt="Css3" height="30" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img align="left" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/react.svg" alt="ReactJS" height="30" />](https://reactjs.org)
+[<img align="left" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/nextdotjs.svg" alt="NextJS" height="30" />](https://nextjs.org)
+[<img align="left" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/redux.svg" alt="Redux" height="30" />](https://redux.js.org)
+[<img align="left" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/jest.svg" alt="Jest" height="30" />](https://jestjs.io)
+[<img align="left" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/styled-components.png" alt="Styled Components" height="30" />](https://styled-components.com)
+[<img align="left" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/sass.svg" alt="Sass" height="30" />](https://sass-lang.com/guide)
+[<img align="left" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/nodejs.svg" alt="NodeJS" height="30" />](https://nodejs.org)
+[<img align="left" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/mongodb.svg" alt="MongoDB" height="30" />](https://www.mongodb.com)
+[<img align="left" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/visual-studio-code.svg" alt="Visual Studio Code" height="30" />](https://code.visualstudio.com)
 
 
 <br />
