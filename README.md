@@ -1,6 +1,4 @@
-## Hi there, I'm Ece 👋
-
-## I'm a Web Developer!
+## Hi there, I'm Ece 👋 I'm a Web Developer!
 
 - 🌱 I’m currently learning everything 🤣
 - 📫 How to reach me: <span><a href="mailto:ecenurbattal@gmail.com">ecenurbattal@gmail.com</a></span>
