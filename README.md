@@ -26,7 +26,7 @@
 [<img align="left" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/mongodb.svg" alt="MongoDB" height="30" />](https://www.mongodb.com)
 [<img align="left" src="https://github.com/ecenurbattal/ecenurbattal/blob/main/icons/tech/visual-studio-code.svg" alt="Visual Studio Code" height="30" />](https://code.visualstudio.com)
 
-
+<br />
 <br />
 
 <div align="center">
